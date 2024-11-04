@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://akopiegi.github.io/NWH/sitemap_index.txt
+Sitemap: https://akopiegi.github.io/Wnw/sitemap_index.txt
+Sitemap: https://akopiegi.github.io/Zjh/sitemap_index.txt
+Sitemap: https://akopiegi.github.io/qeA/sitemap_index.txt
